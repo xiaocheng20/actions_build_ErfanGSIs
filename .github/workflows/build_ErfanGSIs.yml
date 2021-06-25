@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.2.0.QDTCNXM/miui_MI8Lite_V12.0.2.0.QDTCNXM_2f3fece0c8_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://ip2341096666.out.azhimalayanvh.com/Firmware/Flyme/16T/8.1.5.0/cn/20210416105358/37ec6058/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=68472cbd734acfa0a323da1ec4f11220f368843d8d8e8495&ali_redirect_ex_tmining_ts=1624622632&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_NAME: Flyme
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
